@@ -20,6 +20,6 @@ Clone this repository or download the Matplotlib_and_Seaborn.ipynb file.
 
 Ensure you have Jupyter Notebook installed.
 
-Navigate to the directory containing the notebook and open it with Jupyter Notebook.
+Navigate to the directory containing  the notebook and open it with Jupyter Notebook.
 
 Once the notebook is open, you can run the cells to see the code and the resulting plots.
